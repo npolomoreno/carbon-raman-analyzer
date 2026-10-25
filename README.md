@@ -2,7 +2,7 @@
 
 **Raman Analysis App**: aplicación de escritorio para el análisis por lotes de espectros Raman de materiales de carbono (grafeno, grafito y afines). Detecta las bandas D, G y 2D, calcula las razones de intensidad y el tamaño de cristalito, y muestra los resultados en una tabla con promedio y desviación estándar.
 
-Desarrollada por **Natalia Polo-Moreno** (2024–2025) durante una rotación de investigación del doctorado.
+Desarrollada por **Natalia Polo-Moreno** (2024–2025) 
 
 ## Qué hace
 
