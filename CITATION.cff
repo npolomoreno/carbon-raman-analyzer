@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Si usas este software, por favor cítalo así."
+title: "carbon-raman-analyzer: Raman Analysis App"
+type: software
+authors:
+  - given-names: Natalia
+    family-names: Polo-Moreno
+version: "2.0"
+date-released: "2025-06-17"
+license-url: "https://polyformproject.org/licenses/noncommercial/1.0.0"
+abstract: "Aplicación de escritorio para el análisis por lotes de espectros Raman de materiales de carbono: detección de las bandas D, G y 2D, razones de intensidad y tamaño de cristalito."
+keywords:
+  - Raman spectroscopy
+  - graphene
+  - carbon materials

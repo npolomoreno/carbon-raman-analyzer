@@ -1,0 +1,17 @@
+# Artefactos de PyInstaller (el .exe se publica como release, no en el repositorio)
+build/
+dist/
+*.exe
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Datos: no se versionan espectros
+*.csv
+*.txt
+!requirements.txt
+*.spa
+*.SPA
